@@ -6,3 +6,5 @@ Nextjs + TypeScript + MongoDB + Prisma
 3. Create product-list page and format PriceTag component.
 4. Create product-id page, not-found, loading component
 5. Create cache and Metadata functions.
+6. Add prisma cart and cartItems.
+7. Add to Cart, server action inside client component.
